@@ -9,7 +9,7 @@ authors: Olmo Maldonado (@ibolmo)
 
 license: MIT-style license.
 
-requires: [Core/Class]
+requires: [Core/Class, Core/Class.Extras]
 
 provides: SVR
 
