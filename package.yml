@@ -2,6 +2,8 @@ name: "SVR"
 
 exports: "SVR.js"
 
+tags: [Native, Utilities]
+
 web: "[ibolmo.com](http://ibolmo.com)"
 
 description: "SVR (Separated Variable Reader)."
@@ -10,8 +12,6 @@ license: "[MIT License](http://mootools.net/license.txt)"
 
 copyright: "&copy; [Olmo Maldonado](http://ibolmo.com/)"
 
-author: "ibolmo"
 authors: "[Olmo Maldonado](http://ibolmo.com)"
 
-sources:
-    - "Source/SVR.js"
+sources: ["Source/SVR.js"]
